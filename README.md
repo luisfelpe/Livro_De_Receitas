@@ -11,4 +11,6 @@ Um repositorio destinado a ser um livro de receita
 
 (https://github.com/luisfelpe/Livro_De_Receitas/blob/main/limao.md)
 
+(https://github.com/luisfelpe/Livro_De_Receitas/blob/main/morango.md)
+
 
