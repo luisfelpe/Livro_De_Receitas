@@ -1,4 +1,5 @@
 # Pipoca Doce
+<img src="/images/pipoca.jpg">
 
 Ingredientes: milho de pipoca, açúcar, óleo e água.
 
