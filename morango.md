@@ -1,4 +1,6 @@
-# Sorvete de Morango
+# Sorvete de Morango 🍓
+
+
 
 Ingredientes: leite condensado, gelatina de morango, creme de leite e água.
 
