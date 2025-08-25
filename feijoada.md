@@ -1,5 +1,7 @@
 #  Receita de Feijoada
 
+<img src="/images/feijoada.jpg">
+
 # Ingredientes:
 
 500g de feijão preto 
