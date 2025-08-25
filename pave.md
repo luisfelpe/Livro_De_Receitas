@@ -1,6 +1,6 @@
 # Pavê de Limão
 
-<img src="/images/pavê de limão.jpg">
+<img alt="pave" src="/images/pavê de limão.jpg">
 
 Ingredientes: leite condensado, creme de leite, suco de limão, biscoito tipo maizena e raspas de limão.
 
